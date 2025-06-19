@@ -1,13 +1,5 @@
 # 👋 Hi, I'm Youssef
 
-## 📈 100 Days of Code Tracker
-
-- 📅 Day: `<!-- You can manually update this -->`
-- 🚀 Current Focus: Python (Bootcamp Project)
-- ✅ Progress: `<!-- Example: Band Name Generator, Tip Calculator -->`
-
----
-
 🎓 I'm a Computer Science student at **The British University in Egypt** with a deep passion for problem-solving, software development, and building real-world projects. I’m on a mission to grow every day and document my progress publicly as a lifelong learner.
 
 ---
