@@ -1,50 +1,60 @@
-# 👋 Hi, I'm Youssef
+# 👋 Hi, I'm Youssef---
 
-🎓 I'm a Computer Science student at **The British University in Egypt** with a strong passion for software development, problem-solving, and building a meaningful career in tech.
+## 📈 100 Days of Code Tracker
 
-I’m documenting my learning journey publicly and pushing myself to improve daily — one commit at a time. I believe in consistency, depth, and lifelong learning.
-
----
-
-## 🧠 Currently Learning
-
-- Python (100 Days of Code Bootcamp)
-- Git & GitHub (Workflow mastery)
-- Clean code principles
-- Linux command-line
+- 📅 Day: `<!-- You can manually update this -->`
+- 🚀 Current Focus: Python (Bootcamp Project)
+- ✅ Progress: `<!-- Example: Band Name Generator, Tip Calculator -->`
 
 ---
 
-## 🛠️ Tech Stack & Skills
-
-### 💻 Languages
-- C++
-- Python
-- SQL (Structured Query Language)
-
-### 🛢️ Databases
-- PostgreSQL
-
-### 🌐 Front-End
-- HTML
-- CSS
+🎓 I'm a Computer Science student at **The British University in Egypt** with a deep passion for problem-solving, software development, and building real-world projects. I’m on a mission to grow every day and document my progress publicly as a lifelong learner.
 
 ---
 
-## 🚀 GitHub Stats
+## 🛠️ My Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefyass&show_icons=true&theme=radical" alt="Youssef's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefyass&layout=compact&theme=radical" alt="Top languages" height="165">
+### 💻 Languages  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+</p>
+
+### 🛢️ Databases  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 📘 Currently Learning
 
-- 📧 Email: `youremail@example.com`
-- 📓 LinkedIn: `https://www.linkedin.com/in/your-profile` *(optional)*
-- 🌐 Portfolio: `https://yourwebsite.com` *(optional)*
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
+</p>
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefyass&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssefyass&layout=compact&theme=radical" height="165">
+</p>
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: `youremail@example.com`
+- 🌐 Portfolio: `https://yourwebsite.com`
+- 💼 LinkedIn: `https://www.linkedin.com/in/your-profile`
+
+---
+
+> “Work hard in silence, let your success be your noise.” — Frank Ocean
