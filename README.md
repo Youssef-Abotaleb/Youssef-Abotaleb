@@ -40,14 +40,6 @@ I’m documenting my learning journey publicly and pushing myself to improve dai
 
 ---
 
-## 📈 100 Days of Code Tracker
-
-- 📅 Day: `<!-- You can manually update this -->`
-- 🚀 Current Focus: Python (Bootcamp Project)
-- ✅ Progress: `<!-- Example: Band Name Generator, Tip Calculator -->`
-
----
-
 ## 🔗 Connect With Me
 
 - 📧 Email: `youremail@example.com`
@@ -56,4 +48,3 @@ I’m documenting my learning journey publicly and pushing myself to improve dai
 
 ---
 
-> “Work hard in silence, let your success be your noise.” — Frank Ocean
