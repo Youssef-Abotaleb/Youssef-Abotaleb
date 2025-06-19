@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Youssef---
+# 👋 Hi, I'm Youssef
 
 ## 📈 100 Days of Code Tracker
 
@@ -16,10 +16,9 @@
 
 ### 💻 Languages  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
 </p>
 
 ### 🛢️ Databases  
@@ -51,10 +50,6 @@
 
 ## 📫 Contact Me
 
-- 📧 Email: `youremail@example.com`
-- 🌐 Portfolio: `https://yourwebsite.com`
-- 💼 LinkedIn: `https://www.linkedin.com/in/your-profile`
+- 💼 LinkedIn:https://www.linkedin.com/in/youssef-abotaleb-227896325/
 
 ---
-
-> “Work hard in silence, let your success be your noise.” — Frank Ocean
